@@ -1,7 +1,6 @@
 <html lang="ru">
   <header>
     <meta charset="utf-8">
-    <title>Интересное для любознательных</title>
   </header>
   <body>
     <div class="content">
