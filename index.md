@@ -4,23 +4,7 @@
   </header>
   <body>
     <div class="content">
-<br><br>      
-<a href="http://teletype.in/@stasymix/jtzde_BUeit">Новости 1</a><br>
-<a href="http://teletype.in/@stasymix/GtrbeesJxbx">Новости 2</a><br>
-<a href="http://teletype.in/@stasymix/S0xdClcFcTy">Новости 3</a><br>
-<a href="http://teletype.in/@stasymix/wBVtzalwWm0">Новости 4</a><br>
-<a href="http://teletype.in/@stasymix/vQeerJN8ZAI">Новости 5</a><br>
-<a href="http://teletype.in/@stasymix/rwBF36vGbVQ">Новости 6</a><br>
-<br>
-<a href="http://zzweb.ru/1079872">Новости 7</a><br>
-<a href="http://zzweb.ru/1079873">Новости 8</a><br>
-<a href="http://zzweb.ru/1079874">Новости 9</a><br>
-<a href="http://zzweb.ru/1079875">Новости 10</a><br>
-<a href="http://zzweb.ru/1079876">Новости 11</a><br>
-<a href="http://zzweb.ru/1079877">Новости 12</a><br>
-<br>
-<a href="http://liveinternet.ru/users/stklimat/profile">Новости 13</a><br>
-<br>
+<br><br>
 <a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11259397/">Новости 14</a><br>
 <a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11318935/">Новости 15</a><br>
 <a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11223108/">Новости 16</a><br>
