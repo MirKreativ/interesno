@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="ru">
   <header>
     <meta charset="utf-8">
@@ -7,7 +5,7 @@
   </header>
   <body>
     <div class="content">
-      
+<br><br>      
 <a href="http://teletype.in/@stasymix/jtzde_BUeit">Новости 1</a><br>
 <a href="http://teletype.in/@stasymix/GtrbeesJxbx">Новости 2</a><br>
 <a href="http://teletype.in/@stasymix/S0xdClcFcTy">Новости 3</a><br>
@@ -119,7 +117,7 @@
 <a href="http://poigrala.ru/user/KondizionerM/">Новости 99</a><br>
 <a href="http://prpack.ru/user/KondizionerM/">Новости 100</a><br>
 <a href="http://chis-chernomorsk.com.ua/user/KondizionerM/">Новости 101</a>
-<br>
+<br><br>
     </div>
     <footer></footer>
   </body>
