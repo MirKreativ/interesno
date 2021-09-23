@@ -5,31 +5,6 @@
   <body>
     <div class="content">
 <br><br>
-<a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11259397/">Новости 14</a><br>
-<a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11318935/">Новости 15</a><br>
-<a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11223108/">Новости 16</a><br>
-<a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11292963/">Новости 17</a><br>
-<a href="http://subscribe.ru/group/rasteniya-i-tsvetyi/11364160/">Новости 18</a><br>
-<br>
-<a href="https://zen.yandex.ru/media/vipnews/roskosh-da-i-tolko-tatiana-tarasova-pod-vpechatleniem-ot-remonta-na-dache-foto-6134aee7b1b2b70ce97e21ea">Новости 19</a><br>
-<a href="https://zen.yandex.ru/media/newsworld/kak-vygliadit-roskoshnyi-osobniak-55letnei-lady-dens-foto-interera-613f2fb1de09633b73544e8d">Новости 20</a><br>
-<a href="https://zen.yandex.ru/media/vipnews/kak-sogretsia-v-holoda-iunoi-modnice-elizaveta-galkina-613f4c53de09633b73bb3b99">Новости 21</a><br>
-<a href="https://zen.yandex.ru/media/onenews/carskie-horomy-kak-vygliadit-dom-vertinskih-redkie-foto-613f7f08b2d68b06d8d897ba">Новости 22</a><br>
-<a href="https://zen.yandex.ru/media/mixshow/interer-vsem-na-zavist-dom-aktera-aleksandra-mihailova-613fa8787cfd0b1910a7b13b">Новости 23</a><br>
-<a href="https://zen.yandex.ru/media/mixshow/uiutnaia-veranda-i-ogorod-riadom-kak-blagoustroena-dacha-eleny-vaengi-614036ff1afd54161636e854">Новости 24</a><br>
-<a href="https://zen.yandex.ru/media/mixshow/dvorec-s-basseinom-sovremennaia-roskosh-dom-larisy-rubalskoi-6133c4e44ce7622db002b484">Новости 25</a><br>
-<a href="https://zen.yandex.ru/media/onenews/iz-garaja-shikarnaia-gostinaia-poluchilas-remont-u-kinoaktera-aleksandra-mihailova-foto-614188b2b883945864b03eeb">Новости 26</a><br>
-<a href="https://zen.yandex.ru/media/newsworld/kak-izyskanno-i-romantichno-interer-doma-jasmin-6141cee89955383a70a8ed95">Новости 27</a><br>
-<a href="https://zen.yandex.ru/media/vipnews/kirpichnyi-dvorec-s-roskoshnym-dekorom-kak-vygliadit-pomeste-sogdiany-6141f6bbb88394586467a951">Новости 28</a><br>
-<a href="https://zen.yandex.ru/media/vipnews/alla-liubimaia-i-nepovtorimaia-maksim-galkin-6142e28a6e380d411d4fcd85">Новости 29</a><br>
-<a href="https://zen.yandex.ru/media/onenews/krasivaia-para-prodiuser-i-advokat-ida-dostman-poradovala-semeinymi-foto-v-chest-godovsciny-svadby-6148257823e2ec51ee40d10f">Новости 30</a><br>
-<a href="https://zen.yandex.ru/media/mixshow/jarptica-na-oboiah-krasota-i-roskosh-remont-u-marii-shukshinoi-61430138f76141440b04a094">Новости 31</a><br>
-<a href="https://zen.yandex.ru/media/vipnews/pochti-rodnaia-babushka-alina-rodel-detei-primadonny-s-dnem-rojdeniia-pozdravila-614838a16f10e83aa499e3b7">Новости 32</a><br>
-<a href="https://zen.yandex.ru/media/newsworld/kakaia-roskosh-dom-baleriny-ally-sigalovoi-redkie-foto-61431728f76141440b28b9d9">Новости 33</a><br>
-<a href="https://zen.yandex.ru/media/newsworld/kakoe-ocharovanie-alla-pugacheva-predlagaet-zagadat-jelanie-61487aa18705bd601da26244">Новости 34</a><br>
-<a href="https://zen.yandex.ru/media/onenews/koroleva-horeografii-alla-sigalova-redkie-foto-i-lichnaia-jizn-614633439d150d6120026bb9">Новости 35</a><br>
-<a href="https://zen.yandex.ru/media/mixshow/izyskanno-i-prosto-kak-vygliadit-dom-pevicy-kati-lel-614ae212e1dfd6493f2b98c4">Новости 36</a><br>
-<br>
 Минск:<br>
 <a href="http://detsky-mir.com/blog/36232/dostoinstva_klimaticheskoj_tehniki">Новости 37</a><br>
 <a href="http://bike.by/forum/viewtopic.php?f=77&t=10306&p=15162#p15162">Новости 38</a><br>
