@@ -54,27 +54,27 @@
 <a href="http://mobildar.org/user/KatyST/">mobildar.org</a><br>
 <br>
 Могилёв:<br>
-<a href="http://play.ntop.tv/user/KondizionerM/">Новости 81</a><br>
-<a href="http://marvel.hdkino.biz/user/KondizionerM/">Новости 82</a><br>
-<a href="http://tas-ix.tv/user/KondizionerM/">Новости 83</a><br>
-<a href="http://games-ba.ru/user/KondizionerM/">Новости 84</a><br>
-<a href="http://forever.6te.net/user/KondizionerM/">Новости 85</a><br>
-<a href="http://food.72tv.ru/user/KondizionerM/">Новости 86</a><br>
-<a href="http://c400.ru/index.php?subaction=userinfo&user=KondizionerM">Новости 87</a><br>
-<a href="http://pc-helpp.com/user/KondizionerM/">Новости 88</a><br>
-<a href="http://besstizhie.ru/user/KondizionerM/">Новости 89</a><br>
-<a href="http://redray-lnr-news.su/user/KondizionerM/">Новости 90</a><br>
-<a href="http://torrent-mp3.ru/user/KondizionerM/">Новости 91</a><br>
-<a href="http://bizhsch1.ru/user/KondizionerM/">Новости 92</a><br>
-<a href="http://gtabuilder.ru/user/KondizionerM/">Новости 93</a><br>
-<a href="http://magic-tricks.ru/user/KondizionerM/">Новости 94</a><br>
-<a href="http://tatarstan.iastr.ru/user/KondizionerM/">Новости 95</a><br>
-<a href="http://druzhba5.dacha.me/user/KondizionerM/">Новости 96</a><br>
-<a href="http://jdguru.ru/user/KondizionerM/">Новости 97</a><br>
-<a href="http://aoooir.kz/user/KondizionerM/">Новости 98</a><br>
-<a href="http://poigrala.ru/user/KondizionerM/">Новости 99</a><br>
-<a href="http://prpack.ru/user/KondizionerM/">Новости 100</a><br>
-<a href="http://chis-chernomorsk.com.ua/user/KondizionerM/">Новости 101</a>
+<a href="http://play.ntop.tv/user/KondizionerM/">play.ntop.tv</a><br>
+<a href="http://marvel.hdkino.biz/user/KondizionerM/">marvel.hdkino.biz</a><br>
+<a href="http://tas-ix.tv/user/KondizionerM/">tas-ix.tv</a><br>
+<a href="http://games-ba.ru/user/KondizionerM/">games-ba.ru</a><br>
+<a href="http://forever.6te.net/user/KondizionerM/">forever.6te.net</a><br>
+<a href="http://food.72tv.ru/user/KondizionerM/">food.72tv.ru</a><br>
+<a href="http://c400.ru/index.php?subaction=userinfo&user=KondizionerM">c400.ru</a><br>
+<a href="http://pc-helpp.com/user/KondizionerM/">pc-helpp.com</a><br>
+<a href="http://besstizhie.ru/user/KondizionerM/">besstizhie.ru</a><br>
+<a href="http://redray-lnr-news.su/user/KondizionerM/">redray-lnr-news.su</a><br>
+<a href="http://torrent-mp3.ru/user/KondizionerM/">torrent-mp3.ru</a><br>
+<a href="http://bizhsch1.ru/user/KondizionerM/">bizhsch1.ru</a><br>
+<a href="http://gtabuilder.ru/user/KondizionerM/">gtabuilder.ru</a><br>
+<a href="http://magic-tricks.ru/user/KondizionerM/">magic-tricks.ru</a><br>
+<a href="http://tatarstan.iastr.ru/user/KondizionerM/">tatarstan.iastr.ru</a><br>
+<a href="http://druzhba5.dacha.me/user/KondizionerM/">druzhba5.dacha.me</a><br>
+<a href="http://jdguru.ru/user/KondizionerM/">jdguru.ru</a><br>
+<a href="http://aoooir.kz/user/KondizionerM/">aoooir.kz</a><br>
+<a href="http://poigrala.ru/user/KondizionerM/">poigrala.ru</a><br>
+<a href="http://prpack.ru/user/KondizionerM/">prpack.ru</a><br>
+<a href="http://chis-chernomorsk.com.ua/user/KondizionerM/">chis-chernomorsk.com.ua</a>
 <br><br>
     </div>
     <footer></footer>
