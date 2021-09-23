@@ -1,10 +1,10 @@
 
 <!DOCTYPE html>
 <html lang="ru">
-  <head><header>
+  <header>
     <meta charset="utf-8">
     <title>Интересное для любознательных</title>
-  </header></head>
+  </header>
   <body>
     <div class="content">
       
@@ -112,7 +112,7 @@
 <a href="http://bizhsch1.ru/user/KondizionerM/">Новости 92</a><br>
 <a href="http://gtabuilder.ru/user/KondizionerM/">Новости 93</a><br>
 <a href="http://magic-tricks.ru/user/KondizionerM/">Новости 94</a><br>
-<a href="<a href="http://tatarstan.iastr.ru/user/KondizionerM/">Новости 95</a><br>
+<a href="http://tatarstan.iastr.ru/user/KondizionerM/">Новости 95</a><br>
 <a href="http://druzhba5.dacha.me/user/KondizionerM/">Новости 96</a><br>
 <a href="http://jdguru.ru/user/KondizionerM/">Новости 97</a><br>
 <a href="http://aoooir.kz/user/KondizionerM/">Новости 98</a><br>
