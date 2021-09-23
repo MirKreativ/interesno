@@ -1,37 +1,149 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MirKreativ/interesno/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Меню</title>
+    <style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      * {
+        margin: 0;
+        padding: 0;
+      }
 
-### Markdown
+      html, body {
+        height: 100%;
+        background: #f6f3ee;
+      }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      header {
+        width: 100%;
+        height: 105px;
+        background: url(img/header.png) repeat-x;
+      }
 
-```markdown
-Syntax highlighted code block
+      .content {
+        text-align: center;
+      }
 
-# Header 1
-## Header 2
-### Header 3
+      p {
+        height: 50px;
+      }
 
-- Bulleted
-- List
+      a {
+        cursor: pointer;
+        font-size: 20px;
+        text-decoration: none;
+        padding: 10px 45px;
+        color: #ffffff;
+      }
 
-1. Numbered
-2. List
+      a.color1 {
+        background-color: #328ac9;
+        border: 1px solid #2f7db5;
+      }
 
-**Bold** and _Italic_ and `Code` text
+      a:hover.color1 {
+        background-color: #2f7db5;
+        border: 1px solid #2f7db5;
+      }
 
-[Link](url) and ![Image](src)
-```
+      a.color2 {
+        background-color: #775575;
+        border: 1px solid #6b4a69;
+      }
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+      a:hover.color2 {
+        background-color: #6b4a69;
+        border: 1px solid #6b4a69;
+      }
 
-### Jekyll Themes
+      a.color3 {
+        background-color: #45b887;
+        border: 1px solid #339a6d;
+      }
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MirKreativ/interesno/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+      a:hover.color3 {
+        background-color: #339a6d;
+        border: 1px solid #339a6d;
+      }
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      a.color4 {
+        background-color: #ff7a5c;
+        border: 1px solid #ec744a;
+      }
+
+      a:hover.color4 {
+        background-color: #ec744a;
+        border: 1px solid #ec744a;
+      }
+
+      a.color5 {
+        background-color: #2a8d9c;
+        border: 1px solid #008b8b;
+      }
+
+      a:hover.color5 {
+        background-color: #008b8b;
+        border: 1px solid #008b8b;
+      }
+
+      a.color6 {
+        background-color: #c94b51;
+        border: 1px solid #aa3434;
+      }
+
+      a:hover.color6 {
+        background-color: #aa3434;
+        border: 1px solid #aa3434;
+      }
+
+      a.color7 {
+        background-color: #3a3e64;
+        border: 1px solid #313454;
+      }
+
+      a:hover.color7 {
+        background-color: #313454;
+        border: 1px solid #313454;
+      }
+
+      footer {
+        width: 100%;
+        height: 5px;
+        background: url(img/footer.png) repeat-x bottom;
+        position: absolute;
+        bottom: 0;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header></header>
+    <div class="content">
+      <p>
+        <a href="lesson-1/index.html" class="color1" target="blanck">Урок 1</a>
+      </p>
+      <p>
+        <a href="lesson-2/index.html" class="color2" target="blanck">Урок 2 закрепление материала</a>
+      </p>
+      <p>
+        <a href="lesson-3/index.html" class="color3" target="blanck">Урок 3 лендинг-заготовка</a>
+      </p>
+      <p>
+        <a href="lesson-4/index.html" class="color4" target="blanck">Урок 4 карточка товара</a>
+      </p>
+      <p>
+        <a href="lesson-5/index.html" class="color5" target="blanck">Урок 5 меню</a>
+      </p>
+      <p>
+        <a href="lesson-6/index.html" class="color6" target="blanck">Урок 6 медиа-запросы</a>
+      </p>
+      <p>
+        <a href="lesson-7/index.html" class="color7" target="blanck">Урок 7 лендинг</a>
+      </p>
+    </div>
+    <footer></footer>
+  </body>
+</html>
