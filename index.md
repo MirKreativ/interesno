@@ -74,7 +74,7 @@
 <a href="http://aoooir.kz/user/KondizionerM/">aoooir.kz</a><br>
 <a href="http://poigrala.ru/user/KondizionerM/">poigrala.ru</a><br>
 <a href="http://prpack.ru/user/KondizionerM/">prpack.ru</a><br>
-<a href="http://chis-chernomorsk.com.ua/user/KondizionerM/">chis-chernomorsk.com.ua</a>
+<a href="http://chis-chernomorsk.com.ua/user/KondizionerM/">chis-chernomorsk.com.ua</a><br>
 <br>
 Брест:<br>
 <a href="http://archive.molbuk.ua/user/BrestBest/">archive.molbuk.ua</a><br>
