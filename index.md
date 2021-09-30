@@ -109,6 +109,50 @@
 <a href="http://aoooir.kz/user/BrestBest/">aoooir.kz</a><br>
 <a href="http://poigrala.ru/user/BrestBest/">poigrala.ru</a><br>
 <a href="http://prpack.ru/user/BrestBest/">prpack.ru</a><br>
+<br>
+Гродно:<br>
+<a href="http://archive.molbuk.ua/user/KlimatGrodno/">rchive</a><br>
+<a href="http://10-ileaud.mektebi.kz/user/VitebskKlimat/">10-ileaud</a><br>
+<a href="http://29-talgar.mektebi.kz/user/VitebskKlimat/">29-talgar</a><br>
+<a href="http://abai-panfilov.mektebi.kz/user/VitebskKlimat/">abai-panfilov</a><br>
+<a href="http://mayakovski-kalbatau.mektebi.kz/user/KlimatGrodno/">mayakovski-kalbatau</a><br>
+<a href="http://xn--c1aid4a5e.xn--p1ai/user/KlimatGrodno/">xn--c1aid4a5e</a><br>
+<a href="http://avto.izmail.es/user/VitebskKlimat/">avto</a><br>
+<a href="http://lyceum85.inmart.online/user/VitebskKlimat/">lyceum85</a><br>
+<a href="http://10s-reut.ru/user/VitebskKlimat/">10s-reut</a><br>
+<a href="http://rudnet.kz/index.php?subaction=userinfo&user=KlimatGrodno">rudnet</a><br>
+<a href="http://glk-egoza.ru/user/VitebskKlimat/">glk-egoza</a><br>
+<a href="http://gameonline.vokrugsofta.ru/user/VitebskKlimat/">gameonline</a><br>
+<a href="http://missis.apkservice.ru/index.php?subaction=userinfo&user=VitebskKlimat">missis</a><br>
+<a href="http://zadobavkoy.ru/user/VitebskKlimat/">zadobavkoy</a><br>
+<a href="http://09vk.ru/user/VitebskKlimat/">09vk</a><br>
+<a href="http://abrek.org/user/VitebskKlimat/">abrek</a><br>
+<a href="http://play.ntop.tv/user/KlimatGrodno/">play</a><br>
+<a href="http://games-ba.ru/user/KlimatGrodno/">games-ba</a><br>
+<a href="http://c400.ru/index.php?subaction=userinfo&user=KlimatGrodno">c400</a><br>
+<a href="http://pc-helpp.com/user/KlimatGrodno/">pc-helpp</a><br>
+<a href="http://besstizhie.ru/user/KlimatGrodno/">besstizhie</a><br>
+<a href="http://redray-lnr-news.su/user/KlimatGrodno/">redray-lnr-news</a><br>
+<a href="http://torrent-mp3.ru/user/KlimatGrodno/">torrent-mp3</a><br>
+<a href="http://magic-tricks.ru/user/KlimatGrodno/">magic-tricks</a><br>
+<a href="http://tatarstan.iastr.ru/user/KlimatGrodno/">tatarstan</a><br>
+<a href="http://druzhba5.dacha.me/user/KlimatGrodno/">druzhba5</a><br>
+<a href="http://forum.info-lan.ru/index.php?showtopic=27947&st=0&gopid=448976&#entry448976">forum</a><br>
+<a href="http://roller.ru/newforum/profile.php?mode=viewprofile&u=98653">roller</a><br>
+<a href="http://excel-vba.ru/forum/index.php?action=profile;u=15616">excel-vba</a><br>
+<a href="http://solarhome.ru/forum/index.php?action=profile;u=9637">solarhome</a><br>
+<a href="http://aveoclub.ru/forum/index.php?showuser=250046">aveoclub</a><br>
+<a href="http://compcar.ru/forum/member.php?u=88555">compcar</a><br>
+<a href="http://rusmnb.ru/index.php?action=profile;u=54018">rusmnb</a><br>
+<a href="http://fabnews.ru/forum/member.php?u=3975">fabnews</a><br>
+<a href="http://mynissanleaf.ru/profile.php?section=about&id=8549">mynissanleaf</a><br>
+<a href="http://mybrilliance.ru/profile.php?section=about&id=3524">mybrilliance</a><br>
+<a href="http://dongfeng-club.ru/profile.php?section=about&id=4393">dongfeng-club</a><br>
+<a href="http://haval-forum.ru/profile.php?section=about&id=3373">haval-forum</a><br>
+<a href="http://tontalk.org/members/1390/">tontalk</a><br>
+<a href="http://forum.mirimanova.ru/index.php?showuser=186433">forum</a><br>
+<a href="http://zpu-journal.ru/forum/read.php?TID=81&MID=5800#message5800">zpu-journal</a><br>
+<a href="http://shedevr.org.ru/forum/viewtopic.php?p=45461#45461">shedevr</a><br>
 <br><br>
     </div>
     <footer></footer>
