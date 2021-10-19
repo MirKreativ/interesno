@@ -139,7 +139,6 @@
 <a href="http://tontalk.org/members/1390/">tontalk.org</a><br>
 <a href="http://forum.mirimanova.ru/index.php?showuser=186433">forum.mirimanova.ru</a><br>
 <a href="http://zpu-journal.ru/forum/read.php?TID=81&MID=5800#message5800">zpu-journal.ru</a><br>
-<a href="http://shedevr.org.ru/forum/viewtopic.php?p=45461#45461">shedevr.org.ru</a><br>
 <a href="http://archive.molbuk.ua/user/KlimatGrodno/">archive.molbuk.ua</a><br>
 <a href="http://10-ileaud.mektebi.kz/user/VitebskKlimat/">10-ileaud.mektebi.kz</a><br>
 <a href="http://29-talgar.mektebi.kz/user/VitebskKlimat/">29-talgar.mektebi.kz</a><br>
