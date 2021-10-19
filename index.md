@@ -18,7 +18,6 @@
 <a href="http://anapet.info/catalog//link/188540">anapet.info</a><br>
 <a href="http://anapet.info/catalog//link/188541">anapet.info</a><br>
 <a href="http://anapet.info/catalog//link/188542">anapet.info</a><br>
-<a href="http://forum.info-lan.ru/index.php?showtopic=27947&st=0&gopid=448976&#entry448976">forum.info-lan.ru</a><br>
 <a href="http://roller.ru/newforum/profile.php?mode=viewprofile&u=98653">roller.ru</a><br>
 <a href="http://solarhome.ru/forum/index.php?action=profile;u=9637">solarhome.ru</a><br>
 <a href="http://aveoclub.ru/forum/index.php?showuser=250046">aveoclub.ru</a><br>
@@ -124,7 +123,6 @@
 <a href="http://aoooir.kz/user/BrestBest/">aoooir.kz</a><br>
 <a href="http://poigrala.ru/user/BrestBest/">poigrala.ru</a><br>
 <a href="http://prpack.ru/user/BrestBest/">prpack.ru</a><br>
-<a href="http://forum.info-lan.ru/index.php?showtopic=27947&st=0&gopid=448976&#entry448976">forum.info-lan.ru</a><br>
 <a href="http://roller.ru/newforum/profile.php?mode=viewprofile&u=98653">roller.ru</a><br>
 <a href="http://excel-vba.ru/forum/index.php?action=profile;u=15616">excel-vba.ru</a><br>
 <a href="http://solarhome.ru/forum/index.php?action=profile;u=9637">solarhome.ru</a><br>
