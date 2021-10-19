@@ -71,7 +71,6 @@
 <a href="http://zadobavkoy.ru/user/KatyST/">zadobavkoy.ru</a><br>
 <a href="http://09vk.ru/user/KatyST/">09vk.ru</a><br>
 <a href="http://abrek.org/user/KatyST/">abrek.org</a><br>
-<a href="http://adakizyurdu.com/index.php?subaction=userinfo&user=KatyST">adakizyurdu.com</a><br>
 <a href="http://mobildar.org/user/KatyST/">mobildar.org</a><br>
 <a href="http://mik-internat.iam.by/user/KatyST/">mik-internat.iam.by</a><br>
 <a href="http://play.ntop.tv/user/KondizionerM/">play.ntop.tv</a><br>
