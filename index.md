@@ -29,7 +29,6 @@
 <a href="http://haval-forum.ru/profile.php?section=about&id=3373">haval-forum.ru</a><br>
 <a href="http://tontalk.org/members/1390/">tontalk.org</a><br>
 <a href="http://archive.molbuk.ua/user/KatyST/">archive.molbuk.ua</a><br>
-<a href="http://10-ileaud.mektebi.kz/user/KatyST/">10-ileaud.mektebi.kz</a><br>
 <a href="http://mayakovski-kalbatau.mektebi.kz/user/KatyST/">mayakovski-kalbatau.mektebi.kz</a><br>
 <a href="http://avto.izmail.es/user/KatyST/">avto.izmail.es</a><br>
 <a href="http://lyceum85.inmart.online/user/KatyST/">lyceum85.inmart.online</a><br>
@@ -51,7 +50,6 @@
 <a href="http://anapet.info/catalog//link/188538">anapet.info</a><br>
 <a href="http://anapet.info/catalog//link/188539">anapet.info</a><br>
 <a href="http://archive.molbuk.ua/user/KatyST/">archive.molbuk.ua</a><br>
-<a href="http://10-ileaud.mektebi.kz/user/KatyST/">10-ileaud.mektebi.kz</a><br>
 <a href="http://mayakovski-kalbatau.mektebi.kz/user/KatyST/">mayakovski-kalbatau.mektebi.kz</a><br>
 <a href="http://xn--c1aid4a5e.xn--p1ai/user/KatyST/">xn--c1aid4a5e.xn--p1ai</a><br>
 <a href="http://avto.izmail.es/user/KatyST/">avto.izmail.es</a><br>
@@ -89,7 +87,6 @@
 <a href="http://prpack.ru/user/KondizionerM/">prpack.ru</a><br>
 <a href="http://chis-chernomorsk.com.ua/user/KondizionerM/">chis-chernomorsk.com.ua</a><br>
 <a href="http://archive.molbuk.ua/user/BrestBest/">archive.molbuk.ua</a><br>
-<a href="http://10-ileaud.mektebi.kz/user/BrestBest/">10-ileaud.mektebi.kz</a><br>
 <a href="http://mayakovski-kalbatau.mektebi.kz/user/BrestBest/">mayakovski-kalbatau.mektebi.kz</a><br>
 <a href="http://xn--c1aid4a5e.xn--p1ai/user/BrestBest/">xn--c1aid4a5e.xn--p1ai</a><br>
 <a href="http://avto.izmail.es/user/BrestBest/">avto.izmail.es</a><br>
@@ -131,7 +128,6 @@
 <a href="http://forum.mirimanova.ru/index.php?showuser=186433">forum.mirimanova.ru</a><br>
 <a href="http://zpu-journal.ru/forum/read.php?TID=81&MID=5800#message5800">zpu-journal.ru</a><br>
 <a href="http://archive.molbuk.ua/user/KlimatGrodno/">archive.molbuk.ua</a><br>
-<a href="http://10-ileaud.mektebi.kz/user/VitebskKlimat/">10-ileaud.mektebi.kz</a><br>
 <a href="http://mayakovski-kalbatau.mektebi.kz/user/KlimatGrodno/">mayakovski-kalbatau.mektebi.kz</a><br>
 <a href="http://xn--c1aid4a5e.xn--p1ai/user/KlimatGrodno/">xn--c1aid4a5e.xn--p1ai</a><br>
 <a href="http://avto.izmail.es/user/VitebskKlimat/">avto.izmail.es</a><br>
@@ -155,7 +151,6 @@
 <a href="http://druzhba5.dacha.me/user/KlimatGrodno/">druzhba5.dacha.me</a><br>
 <a href="http://forum.mirimanova.ru/index.php?showuser=186433">forum.mirimanova.ru</a><br>
 <a href="http://zpu-journal.ru/forum/read.php?TID=81&MID=5800#message5800">zpu-journal.ru</a><br>
-<a href="http://10-ileaud.mektebi.kz/user/VitebskKlimat/">10-ileaud.mektebi.kz</a><br>
 <a href="http://avto.izmail.es/user/VitebskKlimat/">avto.izmail.es</a><br>
 <a href="http://lyceum85.inmart.online/user/VitebskKlimat/">lyceum85.inmart.online</a><br>
 <a href="http://10s-reut.ru/user/VitebskKlimat/">10s-reut.ru</a><br>
