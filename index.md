@@ -81,7 +81,6 @@
 <a href="http://forever.6te.net/user/KondizionerM/">forever.6te.net</a><br>
 <a href="http://food.72tv.ru/user/KondizionerM/">food.72tv.ru</a><br>
 <a href="http://c400.ru/index.php?subaction=userinfo&user=KondizionerM">c400.ru</a><br>
-<a href="http://pc-helpp.com/user/KondizionerM/">pc-helpp.com</a><br>
 <a href="http://besstizhie.ru/user/KondizionerM/">besstizhie.ru</a><br>
 <a href="http://redray-lnr-news.su/user/KondizionerM/">redray-lnr-news.su</a><br>
 <a href="http://torrent-mp3.ru/user/KondizionerM/">torrent-mp3.ru</a><br>
@@ -115,7 +114,6 @@
 <a href="http://play.ntop.tv/user/BrestBest/">play.ntop.tv</a><br>
 <a href="http://games-ba.ru/user/BrestBest/">games-ba.ru</a><br>
 <a href="http://c400.ru/index.php?subaction=userinfo&user=BrestBest">c400.ru</a><br>
-<a href="http://pc-helpp.com/user/BrestBest/">pc-helpp.com</a><br>
 <a href="http://besstizhie.ru/user/BrestBest/">besstizhie.ru</a><br>
 <a href="http://redray-lnr-news.su/user/BrestBest/">redray-lnr-news.su</a><br>
 <a href="http://torrent-mp3.ru/user/BrestBest/">torrent-mp3.ru</a><br>
@@ -162,7 +160,6 @@
 <a href="http://play.ntop.tv/user/KlimatGrodno/">play.ntop.tv</a><br>
 <a href="http://games-ba.ru/user/KlimatGrodno/">games-ba.ru</a><br>
 <a href="http://c400.ru/index.php?subaction=userinfo&user=KlimatGrodno">c400.ru</a><br>
-<a href="http://pc-helpp.com/user/KlimatGrodno/">pc-helpp.com</a><br>
 <a href="http://besstizhie.ru/user/KlimatGrodno/">besstizhie.ru</a><br>
 <a href="http://redray-lnr-news.su/user/KlimatGrodno/">redray-lnr-news.su</a><br>
 <a href="http://torrent-mp3.ru/user/KlimatGrodno/">torrent-mp3.ru</a><br>
